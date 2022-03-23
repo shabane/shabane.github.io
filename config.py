@@ -11,7 +11,7 @@ REDIRECT_ON_OPEN = "redirect.html"
 INDEX = "index.html"
 
 # [Deployment]
-BASE_URL = "https://shabane.github.io/goto"
+BASE_URL = "https://shabane.github.io/"
 PUBLISH_DIR = "docs"
 MAX_URL_LENGTH = 4  # 36 ^ 4 = 1,679,616 possible addresses for each url
 CHARS = [
